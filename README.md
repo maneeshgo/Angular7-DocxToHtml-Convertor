@@ -1,9 +1,13 @@
 This project use Mammoth Js as third party library. see https://mike.zwobble.org/projects/mammoth/
 
-Steps to run this project-
-> clone or download this project
-> run npm install 
-> run ng serve
+## Steps to run this project-
+
+
+1- clone or download this project
+
+2- run npm install 
+
+3- run ng serve
 
 # Ngx
 
