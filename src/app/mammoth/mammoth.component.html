@@ -1,0 +1,26 @@
+<div class="banner">
+  <div class="container">
+    <h1>Mammoth JS - Docx into Html converter tool</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="co-8">
+      <textarea rows="4" cols="40" placeholder="Paste Docx Base64 code here...." (focusout)="textAreaFocusOut($event)"></textarea>
+    </div>
+    <div class="col-1">OR</div>
+    <div class="col-3">
+      <input id="document" type="file" (change)="onFileChange($event)"/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-8 p-0">
+      <div id="output" class="well">
+      </div>
+    </div>
+    <div class="col-4">
+      <h3>Messages</h3>
+      <div id="messages">
+      </div>
+    </div>
+</div>
