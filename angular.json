@@ -32,7 +32,7 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "src/assets/vendor/iframe/iframeResizer.contentWindow.js"
+
             ]
           },
           "configurations": {
@@ -105,7 +105,7 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "src/assets/vendor/iframe/iframeResizer.contentWindow.js"
+
             ],
             "assets": [
               "src/favicon.ico",
